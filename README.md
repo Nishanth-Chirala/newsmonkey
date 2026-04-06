@@ -26,7 +26,11 @@ A modern React-based news application that delivers real-time headlines using Ne
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+<img width="1911" height="916" alt="image" src="https://github.com/user-attachments/assets/573ea93b-4a5e-450c-ab53-7319ec6329ae" />
+<img width="1915" height="882" alt="image" src="https://github.com/user-attachments/assets/aa755cbe-3f26-4c20-9105-c568c559879d" />
+<img width="1911" height="916" alt="image" src="https://github.com/user-attachments/assets/9e8af12c-2cee-4a0e-81bf-4c741ee1d30a" />
+
+
 
 ---
 
